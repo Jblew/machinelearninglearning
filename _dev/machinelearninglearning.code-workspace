@@ -5,6 +5,10 @@
 		}
 	],
 	"settings": {
-		"editor.rulers": [110, 120]
+		"editor.rulers": [
+			110,
+			120
+		],
+		"python.pythonPath": "venv/bin/python3"
 	}
 }
